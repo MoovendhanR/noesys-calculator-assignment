@@ -26,6 +26,10 @@ const Calculator = () => {
   const clearDisplay = () => {
     setDisplayValue('');
   };
+  const clearAll=() => {
+    setDisplayValue('');
+    setHistory([])
+  }
 
   return (
     <div className="container">
@@ -60,6 +64,8 @@ const Calculator = () => {
 
         <button onClick={handleEqualClick}style={{"background-color":"green","border":"none"}}>=</button>
         <button style={{"background-color":"red","border":"none"}} onClick={clearDisplay}>Clear</button>
+        <button style={{"background-color":"red","border":"none"}} onClick={clearAll}>AllClear</button>
+
       </div>
     </div>
   );
