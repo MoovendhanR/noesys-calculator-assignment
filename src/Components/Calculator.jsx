@@ -58,7 +58,7 @@ const Calculator = () => {
         <button onClick={() => handleOperatorClick('/')}style={{"background-color":"orange","border":"none"}}>/</button>
         <button onClick={() => handleOperatorClick('%')} style={{"background-color":"orange","border":"none"}}>%</button>
 
-        <button onClick={handleEqualClick}>=</button>
+        <button onClick={handleEqualClick}style={{"background-color":"green","border":"none"}}>=</button>
         <button style={{"background-color":"red","border":"none"}} onClick={clearDisplay}>Clear</button>
       </div>
     </div>
