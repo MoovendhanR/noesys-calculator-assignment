@@ -20,9 +20,11 @@ Deployment
 
 
 ## Some of the Screenshots
-![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/7672ab4e-48e7-4c0b-a8af-f9dec2ad5442)
-![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/885181ac-cd1d-4aaf-85da-3fcfd761a855)
-![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/aef0cffa-8747-4f21-9829-ab32c433b8eb)
+![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/007d3294-0eb6-4a3c-a1ad-7dce89afe5e5)
+![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/fb2bdfc2-efb5-43d5-a2d5-ba3099883a55)
+![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/0a1eb9b0-e88a-4337-8908-40a4b9813f7b)
+![image](https://github.com/MoovendhanR/noesys-calculator-assignment/assets/87975437/69c607ca-a079-4b1b-a803-1889877b45ed)
+
 
 
 
